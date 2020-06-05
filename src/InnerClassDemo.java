@@ -6,6 +6,7 @@ public class InnerClassDemo {
         double b=20.5;
 
         double getValue(){
+
             return 50.5;
         }
     }
